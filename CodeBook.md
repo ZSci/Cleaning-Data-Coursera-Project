@@ -13,6 +13,7 @@ This codebook is for the UCI HAR Datset cleaned as per the specifications given 
 - Subject: An ID for the test subject who performed each of the six activities
 
 ## Features
+_The feature description as provided by HAR in features_info.txt_
 
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ.
 These time domain signals (prefix 't' to denote time) were captured at a constant rate and a noise filter was applied. Similarly, the acceleration signal was then separated into body and gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ).
