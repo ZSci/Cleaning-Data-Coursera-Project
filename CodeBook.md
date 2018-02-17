@@ -4,12 +4,12 @@ This codebook is for the UCI HAR Datset cleaned as per the specifications given 
 ## Labels
 
 - Activity: One of the following six for which the readings were taken:
-  - >WALKING
-  - >WALKING_UPSTAIRS
-  - >WALKING_DOWNSTAIRS
-  - >SITTING
-  - >STANDING
-  - >LAYING
+  - `WALKING`
+  - `WALKING_UPSTAIRS`
+  - `WALKING_DOWNSTAIRS`
+  - `SITTING`
+  - `STANDING`
+  - `LAYING`
 - Subject: An ID for the test subject who performed each of the six activities
 
 ## Features
