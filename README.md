@@ -1,6 +1,8 @@
 # Cleaning-Data-Coursera-Project
 Cleans and extracts mean and standard deviation values of features for UCI HAR dataset
 
+The zip needs to be extracted into folder named "UCI_HAR_Datset"
+
 - Aquires dataset from UCI website for Human Activity Recognition
 - Merges all the different train, test data text files for features, labels, and subjectID into one dataset
 - Extracts a dataset containing the activityID, subjectID, mean and standard deviation values
